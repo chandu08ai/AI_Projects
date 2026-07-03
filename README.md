@@ -595,7 +595,7 @@ Rather than jumping into all five at once, build them as a cohesive portfolio wi
 
 This approach will give you a portfolio that demonstrates not only AI integration but also cloud engineering and DevOps practices.
 
-I can guide you through each project step by step—from AWS setup and Terraform to coding, Docker, deployment, testing, and GitHub documentation. We can start with **Project 1 (Voice Vault)** and build it into a production-ready application before moving to the next one.
+
 
 
 
